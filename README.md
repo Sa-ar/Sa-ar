@@ -10,13 +10,6 @@ I'm a skilled front-end developer with expertise in React, TypeScript, and Next.
 
 I'm committed to delivering clean code, solid architecture, and design patterns that meet the highest standards of quality and usability. My approach emphasizes thoroughness, honesty, and community. I'm highly experienced in working in dynamic environments, embracing transparency, and always willing to listen to other opinions.
 
-## 🚀 My Journey
-
-- **Monday.com**: Contributed to the development of new components and improved user experience for the Monday Workdocs project using React, CSS, Redux, and Node.js.
-- **Healthy.io**: Joined as the first developer on the Growth team, working on marketing websites using Next.js, React, and Styled Components, and developing internal tools with Node.js.
-- **DonateIt**: Worked on a non-profit project where I built a React app from scratch, connecting donors with families in need.
-- **College**: Studied computer science and got hooked on web development after building forums in high school.
-
 ## 🎯 Skills
 
 | | |
@@ -26,7 +19,14 @@ I'm committed to delivering clean code, solid architecture, and design patterns 
 | **Design Systems**: |[![Tailwind, MUI](https://skillicons.dev/icons?i=tailwind,mui)](https://skillicons.dev)
 | **Tools**: |[![Git, GitHub, GitLab, GraphQL, VSCode](https://skillicons.dev/icons?i=git,github,gitlab,graphql,vscode)](https://skillicons.dev)
 
-## 🌟 Leadership & Collaboration
+## 🚀 My Journey
+
+- **Monday.com**: Contributed to the development of new components and improved user experience for the Monday Workdocs project using React, CSS, Redux, and Node.js.
+- **Healthy.io**: Joined as the first developer on the Growth team, working on marketing websites using Next.js, React, and Styled Components, and developing internal tools with Node.js.
+- **DonateIt**: Worked on a non-profit project where I built a React app from scratch, connecting donors with families in need.
+- **College**: Studied computer science and got hooked on web development after building forums in high school.
+
+## 🏆 Achievements
 
 - Founded and managed Colman developers' club at college
 - Organized two student hackathons (MTA Hack 2019 and Colman Hack 2021)
@@ -39,8 +39,8 @@ I'm working on a project that empowers developers to achieve their learning goal
 
 Actively participating in online courses and workshops to stay updated with the latest industry trends and best practices.
 
-- `Currently learning`: The Joy of React
-- `Currently Reading`: The New Entrepreneurz: Changing The Way You Play Life
+- **Currently learning**: `The Joy of React`
+- **Currently Reading**: `The New Entrepreneurz: Changing The Way You Play Life`
 
 ## 💃 Passions
 
