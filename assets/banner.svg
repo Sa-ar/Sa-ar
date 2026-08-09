@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Saar Davidson, Senior Full-Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0512"/>
+      <stop offset="1" stop-color="#14101C"/>
+    </linearGradient>
+    <pattern id="dots" width="38" height="38" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1.7" fill="#F9D026" opacity="0.10"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <rect x="0" y="0" width="8" height="300" fill="#F9D026"/>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="84" y="112" font-size="52" font-weight="bold" letter-spacing="1.5" fill="#F8F1FF">SAAR DAVIDSON</text>
+    <rect x="84" y="140" width="120" height="5" fill="#F9D026"/>
+    <text x="84" y="200" font-size="29" font-weight="bold" fill="#F8F1FF">I build the foundations other developers build on.</text>
+    <text x="84" y="244" font-size="18" fill="#B9B2C6">Senior Full-Stack Engineer<tspan fill="#F9D026">   &#183;   </tspan>React<tspan fill="#F9D026">   &#183;   </tspan>TypeScript<tspan fill="#F9D026">   &#183;   </tspan>React Native<tspan fill="#F9D026">   &#183;   </tspan>Node<tspan fill="#F9D026">   &#183;   </tspan>Python<tspan fill="#F9D026">   &#183;   </tspan>AI-native</text>
+  </g>
+</svg>
